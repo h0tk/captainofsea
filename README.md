@@ -38,19 +38,19 @@ It combines player account flows, commerce-ready UX, support operations, and adm
 
 ---
 
-## Showcase (GIF / Preview)
-
-> Replace the placeholder below with your own short demo GIF or MP4 preview.
+## Showcase (Live Hero Video)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVwbnFlM2Q2N2x4bWgxZnA2YzQwZm95MWM4aWoydmlydzMxMHB0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="860" alt="Project demo placeholder" />
+  <video src="https://captainofsea.com/hero.mp4" width="860" autoplay muted loop playsinline controls>
+    Your browser does not support the video tag.
+  </video>
 </p>
 
 ---
 
 ## GitHub-Style Stats Block
 
-> Replace `<YOUR_USERNAME>` with your GitHub username.
+> Replace `<h0tk>` with your GitHub username.
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&hide_border=true&title_color=ffffff&icon_color=38bdf8&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats" />
