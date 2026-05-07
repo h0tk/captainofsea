@@ -1,86 +1,88 @@
-# Captain of Sea - Platform Overview
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Captain%20of%20Sea&fontAlign=50&fontAlignY=35&color=0:0b1020,100:1f2937&fontColor=ffffff&desc=Full-Stack%20Game%20Platform&descAlignY=55" alt="Captain of Sea Header" />
+</p>
 
-`Captain of Sea` is a production-oriented game community platform that brings player services, commerce experience, and administration tooling into a single, cohesive product.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&pause=1200&color=FFFFFF&center=true&vCenter=true&width=920&lines=Production-ready+game+community+platform;Secure+admin+operations+%2B+player+experience;Commerce+UX%2C+ticketing%2C+localization+and+real-world+deployment" alt="Typing intro" />
+</p>
 
----
+<p align="center">
+  <a href="https://captainofsea.com"><img src="https://img.shields.io/badge/Live-captainofsea.com-0f172a?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Live" /></a>
+  <img src="https://img.shields.io/badge/Status-Active-065f46?style=for-the-badge&logo=checkmarx&logoColor=white" alt="Status" />
+  <img src="https://img.shields.io/badge/Scope-Full--Stack-1d4ed8?style=for-the-badge&logo=stackshare&logoColor=white" alt="Scope" />
+  <img src="https://img.shields.io/badge/Focus-Production%20UX-7c3aed?style=for-the-badge&logo=figma&logoColor=white" alt="Focus" />
+</p>
 
-## Executive Summary
-
-This project is designed as a complete web ecosystem for a live game community.  
-It focuses on reliability, usability, multilingual access, and scalable management workflows.
-
-Core value areas:
-
-- Player account experience
-- In-platform shop and checkout flow
-- Admin operations and moderation tooling
-- Structured support communication
-- Clean, modern UI with consistent UX patterns
-
----
-
-## Product Capabilities
-
-### Player Experience
-
-- Account lifecycle: sign-up, sign-in, profile and session-related controls
-- Localized interface with multi-language support
-- Real-time style shop browsing with category-based discovery
-- Cart-based purchase preparation flow
-- Progress and ranking visibility via leaderboard views
-
-### Commerce Experience
-
-- Dynamic product catalog and category structure
-- Coin-pack based virtual value model
-- Cart interactions: add/remove/update quantity
-- Currency-aware price presentation for international audiences
-
-### Support & Communication
-
-- Ticket-based support flow with conversation model
-- Admin-to-user response pipeline in one interface
-- Platform announcements and update visibility for users
-
-### Administration
-
-- Role-aware management surface for operational control
-- Shop content editing from admin interface
-- Moderation and user-management utilities
-- Operational observability-oriented controls
+<p align="center">
+  <img src="https://img.shields.io/badge/Frontend-React%20%2B%20TypeScript-0ea5e9?style=flat-square&logo=react&logoColor=white" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Backend-Node.js%20%2B%20Express-166534?style=flat-square&logo=node.js&logoColor=white" alt="Backend" />
+  <img src="https://img.shields.io/badge/Database-SQLite-1e3a8a?style=flat-square&logo=sqlite&logoColor=white" alt="Database" />
+  <img src="https://img.shields.io/badge/Build-Vite-4c1d95?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+</p>
 
 ---
 
-## Technical Profile
+## Platform Snapshot
 
-- **Frontend:** React + TypeScript
-- **Backend:** Node.js + Express
-- **Data Layer:** SQLite
-- **Architecture:** API-driven web application with admin and player domains
+Captain of Sea is a production-oriented web ecosystem built for a live game community.  
+It combines player account flows, commerce-ready UX, support operations, and admin tooling in one platform.
 
-> Note: This public overview intentionally omits sensitive implementation and operational details.
+### Key Capabilities
 
----
-
-## Engineering Focus
-
-The platform was developed with emphasis on:
-
-- Maintainable modular structure
-- Predictable UI behavior across feature-heavy pages
-- Secure-by-default design decisions
-- Practical deployment readiness
-- Iterative delivery with direct user feedback loops
+- Secure account and access workflows
+- Multilingual interface and region-aware UX
+- Dynamic shop experience with cart flow
+- Role-aware administration and moderation tools
+- Structured ticket-based support communication
+- Announcement and leaderboard modules
 
 ---
 
-## Outcome
+## Showcase (GIF / Preview)
 
-`Captain of Sea` demonstrates end-to-end ownership of a full-stack product:
+> Replace the placeholder below with your own short demo GIF or MP4 preview.
 
-- feature design,
-- implementation,
-- UX refinement,
-- and production-minded stabilization.
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXVwbnFlM2Q2N2x4bWgxZnA2YzQwZm95MWM4aWoydmlydzMxMHB0MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/13HgwGsXF0aiGY/giphy.gif" width="860" alt="Project demo placeholder" />
+</p>
 
-It represents a complete, real-world web platform rather than a demo-only project.
+---
+
+## GitHub-Style Stats Block
+
+> Replace `<YOUR_USERNAME>` with your GitHub username.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&hide_border=true&title_color=ffffff&icon_color=38bdf8&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true&title_color=ffffff&text_color=e5e7eb&bg_color=0f172a" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=<YOUR_USERNAME>&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=22D3EE&fire=22D3EE&currStreakLabel=FFFFFF" alt="GitHub streak" />
+</p>
+
+---
+
+## Public-Safe Technical Profile
+
+- Frontend: React + TypeScript
+- Backend: Node.js + Express
+- Data Layer: SQLite
+- Architecture: API-driven web application with separate player/admin domains
+
+This profile intentionally excludes confidential operational details.
+
+---
+
+## Product Direction
+
+The project emphasizes:
+
+- clean and reliable user journeys,
+- maintainable full-stack architecture,
+- secure-by-default implementation choices,
+- and iterative improvement based on live usage feedback.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=120&color=0:1f2937,100:0b1020" alt="Footer wave" />
+</p>
