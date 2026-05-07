@@ -38,17 +38,32 @@ It combines player account flows, commerce-ready UX, support operations, and adm
 
 ---
 
-## GitHub-Style Stats Block
-
-> Replace `h0tk` with your GitHub username.
+## Showcase (Hero Video)
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=<YOUR_USERNAME>&show_icons=true&hide_border=true&title_color=ffffff&icon_color=38bdf8&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=<YOUR_USERNAME>&layout=compact&hide_border=true&title_color=ffffff&text_color=e5e7eb&bg_color=0f172a" alt="Top languages" />
+  <a href="https://captainofsea.com/hero.mp4" target="_blank">
+    <img src="https://img.shields.io/badge/Play%20Hero%20Video-Open%20MP4-white?style=for-the-badge&logo=googleplay&logoColor=black" alt="Play Hero Video" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=<YOUR_USERNAME>&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=22D3EE&fire=22D3EE&currStreakLabel=FFFFFF" alt="GitHub streak" />
+  GitHub README tarafinda dis video embed her zaman gorunmeyebilir.  
+  Yukaridaki buton ile videoyu dogrudan acabilirsin.
+</p>
+
+---
+
+## GitHub-Style Stats Block
+
+GitHub username is set to `h0tk`.
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h0tk&show_icons=true&hide_border=true&title_color=ffffff&icon_color=38bdf8&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tk&layout=compact&hide_border=true&title_color=ffffff&text_color=e5e7eb&bg_color=0f172a" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=h0tk&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=22D3EE&fire=22D3EE&currStreakLabel=FFFFFF" alt="GitHub streak" />
 </p>
 
 ---
