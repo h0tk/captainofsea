@@ -38,21 +38,6 @@ It combines player account flows, commerce-ready UX, support operations, and adm
 
 ---
 
-## Showcase (Hero Video)
-
-<p align="center">
-  <a href="https://captainofsea.com/hero.mp4" target="_blank">
-    <img src="https://img.shields.io/badge/Play%20Hero%20Video-Open%20MP4-white?style=for-the-badge&logo=googleplay&logoColor=black" alt="Play Hero Video" />
-  </a>
-</p>
-
-<p align="center">
-  GitHub README tarafinda dis video embed her zaman gorunmeyebilir.  
-  Yukaridaki buton ile videoyu dogrudan acabilirsin.
-</p>
-
----
-
 ## GitHub-Style Stats Block
 
 GitHub username is set to `h0tk`.
