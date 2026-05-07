@@ -1,58 +1,86 @@
-# Captain of Sea - Full Stack Game Portal
+# Captain of Sea - Platform Overview
 
-Modern, secure and multilingual web platform for the **Captain of Sea** game ecosystem.
-
-## Live Project
-
-- Website: [https://captainofsea.com](https://captainofsea.com)
-
-## What This Project Includes
-
-- Full authentication flow (register/login/JWT/session tracking)
-- Role-based admin panel (`owner`, `moderator`, `player`)
-- Security hardening (rate limit, brute-force controls, owner protection)
-- Advanced shop system with dynamic categories and coin packs
-- Persistent floating cart with quantity controls
-- Multi-currency price rendering by language with live exchange-rate conversion
-- Support ticket system with threaded messages + image attachments
-- Discord webhook notifications for support flow
-- Announcement + ticker system
-- Top-10 leaderboard with real database users
-- Internationalization (multi-language UI support)
-
-## Tech Stack
-
-- **Frontend:** React, TypeScript, Vite, TailwindCSS
-- **Backend:** Node.js, Express
-- **Database:** SQLite
-- **Infra/Deploy:** Caddy reverse proxy, Windows services (NSSM)
-- **Integrations:** Discord webhook / bot workflows
-
-## Highlights I Am Proud Of
-
-- Built a secure role/permission model with strict owner protection.
-- Designed a complete support-ticket workflow from UI to backend persistence.
-- Implemented a dynamic shop editor in admin panel for non-technical management.
-- Added language-aware currency display with real-time TRY conversion.
-- Structured the project for real deployment and long-term maintenance.
-
-## Security Notes
-
-- Protected privileged account operations (role, ban, balance, deletion restrictions).
-- Added endpoint-level rate limiting on sensitive actions.
-- Hardened auth/session behavior and admin-only controls.
-
-## Project Goal
-
-Deliver a production-ready portal that combines:
-
-- game community management,
-- commerce-ready UX,
-- admin automation,
-- and secure account operations
-
-in one unified platform.
+`Captain of Sea` is a production-oriented game community platform that brings player services, commerce experience, and administration tooling into a single, cohesive product.
 
 ---
 
-If you want, I can also generate a second version focused on **recruiters** (short and business-oriented) and one focused on **developers** (more technical architecture details).
+## Executive Summary
+
+This project is designed as a complete web ecosystem for a live game community.  
+It focuses on reliability, usability, multilingual access, and scalable management workflows.
+
+Core value areas:
+
+- Player account experience
+- In-platform shop and checkout flow
+- Admin operations and moderation tooling
+- Structured support communication
+- Clean, modern UI with consistent UX patterns
+
+---
+
+## Product Capabilities
+
+### Player Experience
+
+- Account lifecycle: sign-up, sign-in, profile and session-related controls
+- Localized interface with multi-language support
+- Real-time style shop browsing with category-based discovery
+- Cart-based purchase preparation flow
+- Progress and ranking visibility via leaderboard views
+
+### Commerce Experience
+
+- Dynamic product catalog and category structure
+- Coin-pack based virtual value model
+- Cart interactions: add/remove/update quantity
+- Currency-aware price presentation for international audiences
+
+### Support & Communication
+
+- Ticket-based support flow with conversation model
+- Admin-to-user response pipeline in one interface
+- Platform announcements and update visibility for users
+
+### Administration
+
+- Role-aware management surface for operational control
+- Shop content editing from admin interface
+- Moderation and user-management utilities
+- Operational observability-oriented controls
+
+---
+
+## Technical Profile
+
+- **Frontend:** React + TypeScript
+- **Backend:** Node.js + Express
+- **Data Layer:** SQLite
+- **Architecture:** API-driven web application with admin and player domains
+
+> Note: This public overview intentionally omits sensitive implementation and operational details.
+
+---
+
+## Engineering Focus
+
+The platform was developed with emphasis on:
+
+- Maintainable modular structure
+- Predictable UI behavior across feature-heavy pages
+- Secure-by-default design decisions
+- Practical deployment readiness
+- Iterative delivery with direct user feedback loops
+
+---
+
+## Outcome
+
+`Captain of Sea` demonstrates end-to-end ownership of a full-stack product:
+
+- feature design,
+- implementation,
+- UX refinement,
+- and production-minded stabilization.
+
+It represents a complete, real-world web platform rather than a demo-only project.
