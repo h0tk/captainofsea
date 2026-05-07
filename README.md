@@ -38,21 +38,6 @@ It combines player account flows, commerce-ready UX, support operations, and adm
 
 ---
 
-## GitHub-Style Stats Block
-
-GitHub username is set to `h0tk`.
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=h0tk&show_icons=true&hide_border=true&title_color=ffffff&icon_color=38bdf8&text_color=e5e7eb&bg_color=0f172a" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=h0tk&layout=compact&hide_border=true&title_color=ffffff&text_color=e5e7eb&bg_color=0f172a" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=h0tk&theme=dark&hide_border=true&background=0F172A&stroke=38BDF8&ring=22D3EE&fire=22D3EE&currStreakLabel=FFFFFF" alt="GitHub streak" />
-</p>
-
----
-
 ## Public-Safe Technical Profile
 
 - Frontend: React + TypeScript
